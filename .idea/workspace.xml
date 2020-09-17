@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e1b0deb5-6b60-45b1-b4dc-4c1b3cd15b49" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1exBt266dPwlWWJebrxTuj4A4N1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../django_blog_tutorial-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Django\mysite_blog\blog\static\blog" />
+      <recent name="C:\Django\mysite_blog\blog\static" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e1b0deb5-6b60-45b1-b4dc-4c1b3cd15b49" name="Default Changelist" comment="" />
+      <created>1595253574618</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595253574618</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="277" y="95" key="#Notifications" timestamp="1595254314973">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="277" y="95" key="#Notifications/0.0.1368.872@0.0.1368.872" timestamp="1595254314973" />
+    <state x="406" y="239" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595662938739">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="406" y="239" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1368.872@0.0.1368.872" timestamp="1595662938739" />
+    <state x="466" y="192" key="FileChooserDialogImpl" timestamp="1599908995062">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="466" y="192" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1599908995062" />
+    <state x="186" y="78" key="SettingsEditor" timestamp="1600080401227">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="186" y="78" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1600080401227" />
+    <state x="368" y="260" key="com.intellij.ide.util.TipDialog" timestamp="1600326337595">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="368" y="260" key="com.intellij.ide.util.TipDialog/0.0.1368.872@0.0.1368.872" timestamp="1600326337595" />
+    <state x="349" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1595515520180">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="349" y="186" width="672" height="678" key="search.everywhere.popup/0.0.1368.872@0.0.1368.872" timestamp="1595515520180" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/mysite_blog/urls.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
